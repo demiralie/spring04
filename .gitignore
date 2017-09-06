@@ -1,0 +1,9 @@
+.cache-main
+.cache-tests
+.classpath
+.git
+.project
+.settings
+target
+*.log
+.springBeans
